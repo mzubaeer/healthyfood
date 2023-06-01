@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "HNC-black";
+    src: url('../fonts/HelveticaNeueCyr-Black.ttf');
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "HNC-bold";
+    src: url('../fonts/HelveticaNeueCyr-Bold.ttf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "HNC-rom";
+    src: url('../fonts/HelveticaNeueCyr-Roman.ttf');
+    font-weight: 400;
+}
